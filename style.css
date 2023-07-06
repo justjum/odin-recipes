@@ -1,0 +1,31 @@
+* {
+    font-family: "Monaco", "Courier New", sans-serif; 
+    color: darkblue;
+    background-color: lightgrey;
+}
+
+#recipe-card {
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 20px;
+
+}
+
+img {
+    display: block;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 350px;
+}
+
+h1 {
+    font-weight: bolder;
+    text-align: center;
+}
+
+.recipe-card li {
+    color: black;
+}
+
